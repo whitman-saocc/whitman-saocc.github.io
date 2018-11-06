@@ -1,1 +1,6 @@
-theme: jekyll-theme-leap-day
+title: Whitman College Student Alumni of Color Association
+description: The homepage of Whitman College's Student and Alumni of Color Association.
+
+rss: rss
+
+theme: minima
